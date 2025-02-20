@@ -1,4 +1,4 @@
-# JumpKingML
+# JumpKing-ML-Unity
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/NotYuSheng/JumpKing-ML-Unity?color=red)](#)
 
