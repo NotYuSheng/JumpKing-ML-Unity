@@ -8,7 +8,7 @@ This project reproduces the mechanics of Jump King using the Unity engine and in
 
 <div align="center">
 
-![Jump King Demo](https://github.com/NotYuSheng/JumpKing-ML-Unity/blob/docs/demo/docs/jumpking-demo.gif) <br>
+![Jump King Demo](https://github.com/NotYuSheng/JumpKing-ML-Unity/blob/main/docs/demo.gif) <br>
 
 </div>
 
