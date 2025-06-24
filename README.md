@@ -4,8 +4,13 @@
 
 This project reproduces the mechanics of Jump King using the Unity engine and integrates machine learning to clear each stage, following the methodology showcased in Code Bullet’s video [AI Learns to play JUMP KING](https://www.youtube.com/watch?v=DmQ4Dqxs0HI). The aim is to learn and replicate the processes in the video.
 
-> [!WARNING]
-> This project is still a work in progress.
+## Demo
+
+<div align="center">
+
+![Jump King Demo](https://github.com/NotYuSheng/JumpKing-ML-Unity/blob/docs/demo/docs/jumpking-demo.gif) <br>
+
+</div>
 
 ## Usage
 
